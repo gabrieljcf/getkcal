@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Proffy" title="Proffy" src="/assets/images/logo.svg" width="70%"/>
+    <img alt="getckal" title="Proffy" src="/assets/images/logo.svg" width="40%"/>
 </h1>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img alt="Proffy" src="/assets/images/screen.png" width="50%">
+  <img alt="Proffy" src="/assets/images/screen.png" width="70%">
 </p>
 
 
